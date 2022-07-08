@@ -12,7 +12,7 @@
     "botbuilder-adapter-slack": "^1.0.7",
     "botkit": "^4.6.0",
     "dotenv": "^7.0.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "@types/jest": "^24.0.19",
